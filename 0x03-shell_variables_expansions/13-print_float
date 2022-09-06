@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($NUM/100))
+echo $NUM | printf '%.2f\n'
