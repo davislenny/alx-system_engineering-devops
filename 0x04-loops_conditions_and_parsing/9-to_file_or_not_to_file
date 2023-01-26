@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Displays information about a file
 
-file="filename"
+file="school"
 
 if [ -e "$file" ]; then
 	echo "$file" file exists
