@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Prints 'Best School' using until loop
+
 i=0
+
 until [ $((i++)) -gt 9 ]; do
-	echo "Best Shool"
+	echo "Best School"
 done
