@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-
-for _ in {1..5}; do 
+# Display 'Best School' ten times
+# Using '_' to counter unused variable
+for _ in {1..10}; do 
 	echo "Best School"
 done
