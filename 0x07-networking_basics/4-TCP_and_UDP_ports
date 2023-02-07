@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display all listening sorkets(-l) and the PID(-p)
+# of the program to which each socket belongs
+netstat -lp
